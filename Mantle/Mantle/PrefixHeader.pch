@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  Mantle
+//
+//  Created by fangjs on 16/9/21.
+//  Copyright © 2016年 fangjs. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "Mantle.h"
+#import "AFNetWorking.h"
+#import "Masonry.h"
+#import "DBMovie.h"
+
+
+#endif /* PrefixHeader_pch */
